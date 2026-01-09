@@ -51,7 +51,7 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/pzBylF7.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/SgjlYjH.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -59,3 +59,110 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: File (top-left).  Hover your mouse over: Tools (between: Export Applicance... and Check for Updates).  Click: Expansion Pack Manager.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/2kr2zrm.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/RM2d29t.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/zI1JtVq.png" height="100%" width="100%" /></td>
+  </tr>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/jf2c4hf.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Oracle VM VirtualBox Extension Pack.  Click: Install.  It will open the File Explorer box for your computer, Select: The VirtualBox Extension Pack file.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/dLmoell.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/UWcXRd2.png" height="100%" width="100%" /></td>
+  </tr>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/eCT1HGi.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/g5Vpgnq.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open VirtualBox.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/s8mnoBs.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: File (top-left, next to: Machne).  Hover your mouse over: Tools (between: Export Applicance... and Check for Updates).  Click: Network Manager (between: Virtual Media Manager and Cloud Profile Manager).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/5Vn9mRj.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NWk0BRO.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/S1ceQqv.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>OR</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Tools (above your virtual machines.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/mI3GZ29.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/bICjGd8.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
