@@ -1,4 +1,4 @@
-<h1>irtualBox – How To Create And Connect Windows OS As Host-Only To Windows Server As NAT</h1>
+<h1>VirtualBox – How To Create And Connect Windows OS As Host-Only To Windows Server As NAT</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
