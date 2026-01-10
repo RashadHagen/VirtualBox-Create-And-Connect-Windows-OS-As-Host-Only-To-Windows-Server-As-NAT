@@ -100,7 +100,7 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/eCT1HGi.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/eCT1HGi.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -119,7 +119,7 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/s8mnoBs.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/s8mnoBs.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -127,7 +127,11 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: File (top-left, next to: Machne).  Hover your mouse over: Tools (between: Export Applicance... and Check for Updates).  Click: Network Manager (between: Virtual Media Manager and Cloud Profile Manager).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>TWO OPTIONS BELOW:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>1. Click: File (top-left, next to: Machne).  Hover your mouse over: Tools (between: Export Applicance... and Check for Updates).  Click: Network Manager (between: Virtual Media Manager and Cloud Profile Manager).</b></span>  
 <br/><br/>
 
 <table>
@@ -143,26 +147,118 @@ This project addresses the need to create a fully functional environment that ac
   </tr>
 </table>
 
-<br /><br />
+<br />
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>OR</b></span>  
 <br/><br/>
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Tools (above your virtual machines.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>2. Click: Tools (above your virtual machines.</b></span>  
 <br/><br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/mI3GZ29.png" height="50%" width="50%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
+    <td><img src="https://imgur.com/mI3GZ29.png" height="100%" width="100%" /></td>
     <td><img src="https://imgur.com/bICjGd8.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Make sure you are in the Host-only Networks tab (top-middle, next to: NAT Networks, below: Create, Remove, and Properties).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/fm6ib8X.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/G0yJVlU.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WNoUWAb.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/UluebBO.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Adapter tab (bottom-middle, next to: DHCP Server tab), Click and Select: Configure Adapter Manually, Type: IPv4 Address: 10.0.0.1, and IPv4 Network Mask: 255.255.255.0.  Click: DHCP Server tab (bottom-middle, next to: Adapter tab), Uncheck: Enable Server box.  Click: Apply (very bottom-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Kojp4U6.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/TNEHtGB.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/T2w6hP2.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/4CGxyGQ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – NETWORK SETUP VIA VIRTUALBOX</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In VirtualBox, Click: Your Windows Server 2025 virtual machine.  Click: Network (a new Settings window will open up).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/OXGAzI5.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/7MfJMXb.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/zGcd0HS.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/PNCJqBH.png" height="500%" width="500%" /></td>
+    <td><img src="https://imgur.com/XOdMhaF.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/d0k6TQ0.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
