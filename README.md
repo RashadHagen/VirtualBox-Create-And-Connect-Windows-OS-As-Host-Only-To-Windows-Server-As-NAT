@@ -325,3 +325,170 @@ This project addresses the need to create a fully functional environment that ac
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS 11 – NETWORK SETUP VIA VIRTUALBOX</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In VirtualBox, Click: Your Windows 11 virtual machine.  Click: Network (a new Settings window will open up).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/QqgrXFZ.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/1qwIxEg.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/onHMEJ1.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/SJVcrsQ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/fp2DhFU.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/dRda8lu.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Under Adaptor 1 tab, Make sure that this box is Checked: Enable Network Adapter.  In the Attached to row, Select: Host-only Adapter.  In the Promiscuous Mode box, Select: Allow All.  Make sure this box is Checked: Cable Connected.  Click: OK (very bottom-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/haa7mzM.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/hTgWSaH.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/SMNUU7H.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – NETWORK SETUP VIA WINDOWS SERVER 2025 VIRTUAL MACHINE</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In VirtualBox, Double-Click and Open: Windows Server 2025 Virtual Machine. Sign-In and Startup: Windows Server 2025.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/x4idycX.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NL6OEIV.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The network icon (bottom-right). A box will appear, Click: Network and Internet settings.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/GokIBtc.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/bPjVv6x.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/k31NJx0.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Advanced Settings.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/7el86oB.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/TPSz6Jy.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: In Advanced network settings, I will rename Adapter 1 (Ethernet) and Network Adapter 2 (Ethernet 2). Adapter 1 will be renamed: External (NAT) and Adapter 2 will be renamed: Internal (Host-Only).</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The Ethernet box (it will dropdown with more options) (under section: Network adapters). In the Rename this adapter row, Click: Rename (far-right).  A new box will appear called: Rename your hardware, Type: The name you want for the Ethernet adapter, then Click: Save (bottom-left). Do the same for Ethernet 2. You will now see both your network adapters are renamed: External (NAT) and Internal (Host-Only).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/HuDotQz.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/XBE4AFu.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/jdWG7Oe.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/kEKnrCH.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/xv9er0g.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/g8rC5lD.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
