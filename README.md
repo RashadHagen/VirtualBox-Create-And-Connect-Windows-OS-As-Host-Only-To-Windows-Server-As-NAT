@@ -492,3 +492,99 @@ This project addresses the need to create a fully functional environment that ac
 
 <br /><br />
 
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>On the Internal (Host-Only) network adapter, in the: More adapter options row, Click: Edit (far-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/d8PN2ob.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/rpSNySR.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WShXrDe.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: (your network adapter name, ie: Internal Host-Only) Properties.  Click: Internet Protocol Version 4 (TCP/IPv4).  Click: Properties (middle-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/BtyaXyF.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/OtO52es.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will appear called: Internet Protocol Version 4 (TCP/IPv4) Properties.  Select: Use the following IP address (it will automatically select: Use the following DNS server address).  Type: IP address: 10.0.0.4. Type: Subnet mask: 255.255.255.0. Leave blank: Default gateway: (blank). Type: Preferred DNS: 10.0.0.4.  Click: OK (bottom-right). </b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/2vHFJ5P.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/y7UsOoD.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/bKn11ZH.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the: (your network adapter name, ie: Internal Host-Only) Properties box.  Click: Close (bottom-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/aIgP5Qw.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/fBLMfYu.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You can double-check / verify both adaptors are setup correctly by opening Command Prompt and using command: ipconfig.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/OJVcLsh.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
