@@ -90,13 +90,9 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/dLmoell.png" height="50%" width="50%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/UWcXRd2.png" height="100%" width="100%" /></td>
   </tr>
+</table>
 
 <table>
   <tr>
@@ -106,7 +102,7 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/g5Vpgnq.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/g5Vpgnq.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
@@ -318,13 +314,13 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/gT0AutH.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/gT0AutH.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/gT0AutH.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/ErK8AxW.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
