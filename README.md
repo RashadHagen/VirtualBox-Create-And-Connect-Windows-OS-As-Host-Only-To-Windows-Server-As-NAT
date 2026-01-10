@@ -262,3 +262,70 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Under Adaptor 1 tab, Make sure that this box is Checked: Enable Network Adapter.  Make sure that in the Attached to row, Select: NAT.  Make sure this box is Checked: Cable Connected.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CI661mr.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/72GDTPP.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Under Adapter 2 tab, Check Box: Enable Network Adapter.  In the Attached to row, Select: Host-only Adapter.  In the Promiscuous Mode box, Select: Allow All.  Make sure this box is Checked: Cable Connected.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/nfSdXN7.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/A3fcRvW.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: OK (very bottom-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/rMysPU3.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will now see two Network Adapters for the Windows Server 2025 virtual machine.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/gT0AutH.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/gT0AutH.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
