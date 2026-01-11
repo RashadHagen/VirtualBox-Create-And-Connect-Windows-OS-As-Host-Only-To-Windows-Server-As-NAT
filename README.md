@@ -123,7 +123,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>TWO OPTIONS BELOW TO GET TO TOOLS IN VIRTUALBOX:</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>TWO OPTIONS BELOW TO GET TO TOOLS NETWORK MANAGER IN VIRTUALBOX:</b></span>  
 <br/><br/>
 
 </div>
@@ -583,6 +583,45 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/OJVcLsh.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS 11 – NETWORK SETUP VIA WINDOWS 11 VIRTUAL MACHINE</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In VirtualBox, Double-Click and Open: Windows 11 Virtual Machine. Sign-In and Startup: Windows 11.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/QHnpTPN.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Zvv9WQL.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The no internet connection network icon (bottom-right). A box will appear, Click: Network and Internet settings.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/C71LGWA.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/rSfasAa.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/BPI07Jb.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/lx6pkIo.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
