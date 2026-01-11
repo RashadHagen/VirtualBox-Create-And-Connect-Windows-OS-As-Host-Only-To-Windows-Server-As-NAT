@@ -123,7 +123,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>TWO OPTIONS BELOW:</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>TWO OPTIONS BELOW TO GET TO TOOLS IN VIRTUALBOX:</b></span>  
 <br/><br/>
 
 </div>
