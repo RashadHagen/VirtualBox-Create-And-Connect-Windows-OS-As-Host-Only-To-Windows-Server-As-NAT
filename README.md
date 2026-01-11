@@ -1776,10 +1776,6 @@ This project addresses the need to create a fully functional environment that ac
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>New-NetFirewallRule -DisplayName "Allow RRAS Core Services" -Direction Inbound -Protocol TCP -LocalPort 1701,1723 -Action Allow</b></span>  
 <br/><br/>
 
-</div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>net stop remoteaccess</b></span>  
-<br/><br/>
-
 <table>
   <tr>
     <td><img src="https://imgur.com/KVy1tIl.png" height="75%" width="75%" /></td>
