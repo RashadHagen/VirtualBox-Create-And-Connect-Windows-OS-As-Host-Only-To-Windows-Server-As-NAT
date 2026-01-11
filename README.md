@@ -1557,7 +1557,7 @@ This project addresses the need to create a fully functional environment that ac
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>OR</b></span>  
-<br/><br/>
+<br/>
 
 <table>
   <tr>
