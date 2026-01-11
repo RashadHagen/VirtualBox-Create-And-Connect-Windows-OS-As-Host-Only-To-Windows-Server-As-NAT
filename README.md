@@ -1724,7 +1724,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To solve the error box that popped-up when you clicked finish, Open: PowerShell (Run as administrator).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To solve the error box that popped-up when you clicked finish, Open: PowerShell (Run as administrator) (right-click: Windows PowerShell: then, click: Run as administrator).</b></span>  
 <br/><br/>
 
 <table>
