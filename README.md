@@ -1758,3 +1758,139 @@ This project addresses the need to create a fully functional environment that ac
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To make sure all RRAS (Routing and Remote Access Service) related ports are open in Windows Firewall, Type and then Press: Enter (you will not get any visible response except a new line to enter a new command):</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b># Allow RRAS core service (TCP/UDP 1701, 1723, 47, 500, 4500)</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>New-NetFirewallRule -DisplayName "Allow RRAS Core Services" -Direction Inbound -Protocol TCP -LocalPort 1701,1723 -Action Allow</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>net stop remoteaccess</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/KVy1tIl.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/QP2J4qP.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>New-NetFirewallRule -DisplayName "Allow RRAS GRE" -Direction Inbound -Protocol 47 -Action Allow</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/9TGACQF.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>New-NetFirewallRule -DisplayName "Allow RRAS IPSec" -Direction Inbound -Protocol UDP -LocalPort 500,4500 -Action Allow</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/9GMyn7Z.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type and then Press: Enter (you will not get any visible response except a new line to enter a new command):</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b># Allow RRAS management console (RPC/DCOM)</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>New-NetFirewallRule -DisplayName "Allow RRAS Management RPC" -Direction Inbound -Protocol TCP -LocalPort 135 -Action Allow</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/BwmY3dW.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>New-NetFirewallRule -DisplayName "Allow RRAS Management DCOM" -Direction Inbound -Protocol TCP -LocalPort 445 -Action Allow</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DfJvM2z.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Re-enable the Routing and Remote Access Service (RRAS), Type and then Press: Enter (you will not get any visible response except a new line to enter a new command):</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Set-Service RemoteAccess -StartupType Automatic</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>net start remoteaccess/b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/TlLA0o2.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
