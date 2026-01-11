@@ -1579,3 +1579,29 @@ This project addresses the need to create a fully functional environment that ac
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Routing and Remote Access.  Right-Click: The server you want to configure (ex: WIN-K2BF9E7VTHV).  Click: Configure and Enable Routing and Remote Access (very top of list).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Cgx7eej.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/rCll4aZ.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/0tLzN1u.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
