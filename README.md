@@ -627,3 +627,234 @@ This project addresses the need to create a fully functional environment that ac
 
 <br /><br />
 
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Settings, you will be in the tab: Network & internet.  Click: Advanced network settings (very bottom-middle).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/249gecy.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/m4PXqoQ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click dropdown box: Ethernet (very top-middle) (under section: Network adapters).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/pvW7PGW.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WC4FOUX.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the row: Rename this adapter, Click: Rename (far right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/mdxKtYR.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/50W86qY.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/dTbvNph.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will appear called: Rename your hardware, Type: The new name for the network adapter (ex: Internal (Host-Only).  Click: Save (bottom-left).</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: Make sure to name this the exact same name you did for the “Internal” network adapter in Windows Server 2025 (ex: Internal (Host-Only).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/XeYmXQB.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/ooXayDg.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will go back to the Advanced network settings box, under the section: Network adapters, you will see the new network adapter name: (ex: Internal (Host-Only)).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DISrfuz.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Control Panel.  Click: Network and Internet.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/xV0Pkwy.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/OrV1QHs.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/DlrXA4k.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Network and Sharing Center.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/McsYI5k.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/8qB6iZA.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Change adapter settings (far-left column, between: Control Panel Home and Change advanced sharing settings).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/47IZkkQ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/MS3BGO7.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/StHcn6U.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will open called: Network Connections.  Right-Click: The network adapter (ex: Internet (Host-Only)).  Click: Properties (very bottom).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/0YKGzMx.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/pDYPzQD.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/fqRE4BF.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will open called: The name of your network adapter Properties (ex: ex: Internet (Host-Only) Properties).  Click & Highlight: Internet Protocol Version 4 (TCP/IPv4).  Click: Properties.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/tiWk5mD.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/S2fnbop.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/GHPKT8h.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will open called: Internet Protocol Version 4 (TCP/IPv4) Properties.  Select: Use the following IP Address (top) (it will automatically also select: Use the following DNS server addresses).  Type: IP address: 10.0.0.5, Subnet mask: 255.255.255.0, Default gateway: 10.0.0.4, Preferred DNS: 10.0.0.4.  Click: OK (very bottom-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/JwCiCWl.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/5OuY6mY.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/qLbN1NL.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/zTGej1X.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the box: The name of your network adapter Properties (ex: ex: Internet (Host-Only) Properties).  Click: Close (very bottom-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/pz1dIJI.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/p811qks.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
