@@ -865,7 +865,7 @@ This project addresses the need to create a fully functional environment that ac
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: AD DS – Active Directory Domain Services = manages and stores information about network resources, users, and computers, enabling centralized administration and security.</b></span>  
-<br/><br/>
+<br/><br/><br/>
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Server Manager.</b></span>  
@@ -873,13 +873,45 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/pz1dIJI.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/sQ2i9jy.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Add roles and features (via Homescreen or Manage).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ebPut8O.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will popup called: Add Roles and Features Wizard.  In the Installation Type tab, make sure this is Selected: Role-based on feature-based installation.  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/AoGhpwJ.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/p811qks.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/sv2SAuj.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/VZAiRXx.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
