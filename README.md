@@ -1605,3 +1605,85 @@ This project addresses the need to create a fully functional environment that ac
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Routing and Remote Access Server Setup Wizard, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/jUCxrMI.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/uloDnFK.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Configuration window, Select:</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/xlW117E.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/J2aOBSQ.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/zpXG4wg.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the NAT Internet Connection window, Select: The WAN (ex: External (NAT)), Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/6b48gVW.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ruVgXkf.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Finish.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/0nKOjOS.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/LkgRrCX.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
