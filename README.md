@@ -918,3 +918,180 @@ This project addresses the need to create a fully functional environment that ac
 <br /><br />
 
 
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Server Selection tab, make sure this is Selected: Select a server from the server pool & The Windows Server you want to use.  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/2RuyM65.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/M3g41hW.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/1vLYgvV.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken to a window called: Add Roles and Features Wizard, Server Roles tab.  In the Server Roles tab, Select: Active Directory Domain Services.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/JW5rvUN.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/s9leR6d.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Add Roles and Features Wizard.  Click: Add Features.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/8FkXNpb.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/POWcVJU.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the window called: Add Roles and Features Wizard, Server Roles tab. You will see a checkmark in the box to the left of: Active Directory Domain Services (second picture).  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/pfmYiYB.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/crjGwv3.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/BxUsJ2L.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Features tab, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/L7NXjqu.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/1VDdSRD.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the AD DS tab, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/D2XsnkF.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/pvCmYZ6.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Confirmation tab, Click: Install.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/h6SYOuY.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CpHQDAK.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Results tab, you can Click: Close OR Keep the Add Roles and Features Wizard box open, because you can Click: The flag icon in Server Manager (top-right) at any time.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/KzjhBRS.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/cp6gUA4.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/AG9CxVT.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/UDUZlLV.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NbZxeyZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/qY15tqk.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
