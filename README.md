@@ -1105,10 +1105,8 @@ This project addresses the need to create a fully functional environment that ac
 <br/><br/>
 
 </div>
-<ul>
     <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	Computer Network Domain = a group of computers and network resources that share a common set of rules and can be centrally managed, often using a domain controller to manage user accounts, security policies, and network resources.</b></span>
-  <br/><br/>
-<ul>
+<br/><br/>
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	Forest (AD DS) =the highest-level organizational unit in an Active Directory environment.</b></span>  
