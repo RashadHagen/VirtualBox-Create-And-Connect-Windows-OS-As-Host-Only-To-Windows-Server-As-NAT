@@ -1553,11 +1553,11 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/uQfZjdL.png" height="100%" width="100%" /></td>
   </tr>
 </table>
-<br/><br/>
+<br/>
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>OR</b></span>  
-<br/>
+<br/><br/>
 
 <table>
   <tr>
