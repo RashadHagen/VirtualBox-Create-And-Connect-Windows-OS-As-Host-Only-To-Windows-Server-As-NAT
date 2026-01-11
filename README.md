@@ -1262,7 +1262,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – INSTALLING ROUTING AND REMOTE ACCESS SERVICE (RRAS) (RAS) FOR NAT VIA SERVER MANAGER</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – INSTALLING ROUTING AND REMOTE ACCESS SERVICE (RRAS) FOR NAT VIA SERVER MANAGER</b></span>  
 <br/><br/><br/>
 
 
@@ -1533,6 +1533,47 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/LQmphXl.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – CONFIGURE ROUTING AND REMOTE ACCESS SERVICE (RRAS) FOR NAT VIA SERVER MANAGER</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In Server Manager, Click: The flag with the yellow triangle that has an exclamation inside it (very top, next to: Manage).  Click: Open the Getting Started Wizard (blue link) OR The method I will use, Click: Tools (very top, between: Manage and View).  Click: Routing and Remote Access.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/4YwQDHO.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/uQfZjdL.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>OR</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WOeDFOH.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/NLYw6Ng.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/XYqUUZj.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/YCucPSX.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
