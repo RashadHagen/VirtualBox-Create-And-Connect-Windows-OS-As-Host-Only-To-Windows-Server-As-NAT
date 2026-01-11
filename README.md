@@ -1261,3 +1261,31 @@ This project addresses the need to create a fully functional environment that ac
 <br /><br />
 
 
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – INSTALLING ROUTING AND REMOTE ACCESS SERVICE (RRAS) (RAS) FOR NAT VIA SERVER MANAGER</b></span>  
+<br/><br/><br/>
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Windows Server 2025.  Open: Server Manager.  Click: Add Roles and Features (middle-top, under: Configure this local server).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/960UBKD.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CVSJUTz.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/960UBKD.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
