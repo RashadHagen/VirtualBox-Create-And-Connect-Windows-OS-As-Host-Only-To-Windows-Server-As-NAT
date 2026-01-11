@@ -1689,7 +1689,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>IF YOU GET AN ERROR MESSAGE AFTER CLICKING: FINISH – CONFIGURE ROUTING AND REMOTE ACCESS SERVICE (RRAS) FOR NAT VIA SERVER MANAGER - POWERSHELL</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>IF YOU GET AN ERROR MESSAGE AFTER CLICKING: FINISH – CONFIGURE ROUTING AND REMOTE ACCESS SERVICE (RRAS) FOR NAT VIA SERVER MANAGER</b></span>  
 <br/><br/><br/>
 
 </div>
