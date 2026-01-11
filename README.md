@@ -1230,29 +1230,34 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Review Options tab, look over all your selections.  You can export your settings to a Windows PowerShell script by Clicking: View script.  Click: Next.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>It will take about 1-2 minutes for the Prerequisites Check tab to be usable (will see a blue streak going across the top of the Active Directory Domain Services Configuration Wizard box).  Click: Install – When done: Windows Server will automatically restart your computer.</b></span>  
 <br/><br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/uDlbQDv.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/oHWvI18.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/CVSJUTz.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/960UBKD.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Installation tab, you will be able to see the installation progress.  Also, you will see a blue streak going across the top of the Active Directory Domain Services Configuration Wizard box.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/8HmDrWJ.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
 
