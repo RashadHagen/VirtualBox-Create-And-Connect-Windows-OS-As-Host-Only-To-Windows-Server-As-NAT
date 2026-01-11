@@ -1687,3 +1687,35 @@ This project addresses the need to create a fully functional environment that ac
 
 <br /><br />
 
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>IF YOU GET AN ERROR MESSAGE AFTER CLICKING: FINISH – CONFIGURE ROUTING AND REMOTE ACCESS SERVICE (RRAS) FOR NAT VIA SERVER MANAGER - POWERSHELL</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You may get this error after clicking finish, Click: OK.  Give Windows Server about 5-10 seconds to complete the configuration, you will see small boxes pop-up called: Completing Initialization.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/4YwQDHO.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NLYw6Ng.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/4YwQDHO.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+
