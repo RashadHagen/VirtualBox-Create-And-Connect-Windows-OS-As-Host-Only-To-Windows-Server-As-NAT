@@ -858,3 +858,31 @@ This project addresses the need to create a fully functional environment that ac
 
 <br /><br />
 
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – INSTALLING ACTIVE DIRECTORY DOMAIN SERVICES (AD DS)</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: AD DS – Active Directory Domain Services = manages and stores information about network resources, users, and computers, enabling centralized administration and security.</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Server Manager.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/pz1dIJI.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/p811qks.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
