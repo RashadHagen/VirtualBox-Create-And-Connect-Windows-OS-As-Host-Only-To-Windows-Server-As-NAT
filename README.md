@@ -1110,7 +1110,7 @@ This project addresses the need to create a fully functional environment that ac
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	Forest (AD DS) =the highest-level organizational unit in an Active Directory environment.</b></span>  
-<br/><br/>
+<br/><br/><br/>
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>After Active Directory Domain Services (AD DS) is installed, you will need to configure it.   Click: The flag icon in Server Manager (top-right) with the yellow triangle with an exclamation point in it.  In the section called: Configuration required for Active Domain Services at (Windows Server name, ex: WIN-K2BF9E7VTHV), Click: Promote this server to a domain controller (below: Configuration required…).</b></span>  
@@ -1120,6 +1120,137 @@ This project addresses the need to create a fully functional environment that ac
   <tr>
     <td><img src="https://imgur.com/17ZVcfC.png" height="75%" width="75%" /></td>
     <td><img src="https://imgur.com/8aq5kVM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Active Directory Domain Services Configuration Wizard.  In the Deployment Configuration tab, Select: Add a new forest.  Type: Root domain name.  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/rL3wQHf.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/5xSQuPz.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/Kuer4so.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>It will take about 1-2 minutes for the Domain Controller Options tab to be usable (will see a blue streak going across the top of the Active Directory Domain Services Configuration Wizard box). Type: Password.  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Kln5mET.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Kjo4HUJ.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/JvRNIVF.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the DNS Options tab, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/k10N0tk.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/VQRkq5k.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Additional Options tab, make sure the name is what you want it to be.  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/txeJBpw.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/fHFZOlM.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Pa1aWQv.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Paths tab, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/GgR2Hni.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Review Options tab, look over all your selections.  You can export your settings to a Windows PowerShell script by Clicking: View script.  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/uDlbQDv.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/oHWvI18.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
