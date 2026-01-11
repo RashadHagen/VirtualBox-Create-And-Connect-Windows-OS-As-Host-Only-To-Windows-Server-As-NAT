@@ -15,7 +15,7 @@ This project addresses the need to create a fully functional environment that ac
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>VirtualBox</b>
+ - <b>VirtualBox 7.0.26</b>
 
 
 
@@ -24,7 +24,7 @@ This project addresses the need to create a fully functional environment that ac
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
-- <b>VirtualBox 7.0.26 & Windows Server 2025 & Windows 11 Pro & PowerShell</b>
+- <b>VirtualBox & Windows Server 2025 & Windows 11 Pro & PowerShell</b>
 
 
 
