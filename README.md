@@ -1095,3 +1095,35 @@ This project addresses the need to create a fully functional environment that ac
 
 <br /><br />
 
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – CONFIGURING ACTIVE DIRECTORY DOMAIN SERVICES (AD DS) AFTER INSTALLING</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	DC - Domain Controller = a server that responds to security authentication requests within a computer network domain. It is a network server that is responsible for allowing host access to domain resources. It authenticates users, stores user account information and enforces security policy for a domain.</b></span>  
+<br/><br/>
+
+</div>
+<ul>
+    <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	Computer Network Domain = a group of computers and network resources that share a common set of rules and can be centrally managed, often using a domain controller to manage user accounts, security policies, and network resources.</b></span>
+  <br/><br/>
+<ul>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	Forest (AD DS) =the highest-level organizational unit in an Active Directory environment.</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>After Active Directory Domain Services (AD DS) is installed, you will need to configure it.   Click: The flag icon in Server Manager (top-right) with the yellow triangle with an exclamation point in it.  In the section called: Configuration required for Active Domain Services at (Windows Server name, ex: WIN-K2BF9E7VTHV), Click: Promote this server to a domain controller (below: Configuration required…).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/17ZVcfC.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/8aq5kVM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
