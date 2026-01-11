@@ -1516,7 +1516,6 @@ This project addresses the need to create a fully functional environment that ac
   </tr>
 </table>
 
-
 <table>
   <tr>
     <td><img src="https://imgur.com/oEIhLKs.png" height="75%" width="75%" /></td>
@@ -1616,7 +1615,6 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/jUCxrMI.png" height="75%" width="75%" /></td>
   </tr>
 </table>
-<br/>
 
 <table>
   <tr>
@@ -1636,7 +1634,6 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/xlW117E.png" height="75%" width="75%" /></td>
   </tr>
 </table>
-<br/>
 
 <table>
   <tr>
@@ -1657,7 +1654,6 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/6b48gVW.png" height="75%" width="75%" /></td>
   </tr>
 </table>
-<br/>
 
 <table>
   <tr>
@@ -1677,7 +1673,6 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/0nKOjOS.png" height="75%" width="75%" /></td>
   </tr>
 </table>
-<br/>
 
 <table>
   <tr>
@@ -1713,4 +1708,113 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the box called: Routing and Remote Access when configuration is complete.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/XfJJZvE.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To solve the error box that popped-up when you clicked finish, Open: PowerShell (Run as administrator).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/F8fmLD1.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/vunlX1X.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/pnZhgcF.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To make sure all RRAS (Routing and Remote Access Service) related ports are open in Windows Firewall, Type: and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b># Allow RRAS core service (TCP/UDP 1701, 1723, 47, 500, 4500)</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type: and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>New-NetFirewallRule -DisplayName "Allow RRAS Core Services" -Direction Inbound -Protocol TCP -LocalPort 1701,1723 -Action Allow
+New-NetFirewallRule -DisplayName "Allow RRAS GRE" -Direction Inbound -Protocol 47 -Action Allow
+New-NetFirewallRule -DisplayName "Allow RRAS IPSec" -Direction Inbound -Protocol UDP -LocalPort 500,4500 -Action Allow
+</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type: and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b># Allow RRAS management console (RPC/DCOM)</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Then, Type: and then Press: Enter:</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>New-NetFirewallRule -DisplayName "Allow RRAS Management RPC" -Direction Inbound -Protocol TCP -LocalPort 135 -Action Allow
+New-NetFirewallRule -DisplayName "Allow RRAS Management DCOM" -Direction Inbound -Protocol TCP -LocalPort 445 -Action Allow
+</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DeZy9Fc.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DeZy9Fc.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DeZy9Fc.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DeZy9Fc.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DeZy9Fc.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DeZy9Fc.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
 
