@@ -2719,8 +2719,8 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/Ya4FWUR.png" height="75%" width="75%" /></td>
-    <td><img src="https://imgur.com/5diVDZk.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/Ya4FWUR.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/5diVDZk.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
