@@ -2306,7 +2306,7 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/OHy1hx6.png" height="100%" width="100%" /></td>
   </tr>
 </table>
-<br/><br/>
+<br/>
 
 <table>
   <tr>OR</b></span>  
