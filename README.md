@@ -2656,7 +2656,7 @@ This project addresses the need to create a fully functional environment that ac
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NAT = Network Address Translation = allows internal clients to connect to the Internet using one public IP address</b></span>  
-<br/><br/>
+<br/><br/><br/>
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Server Manager, Click: Tools.  Click: DHCP.</b></span>  
