@@ -2335,10 +2335,14 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/Azkb0Ou.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://imgur.com/6q6DcsY.png" height="75%" width="75%" /></td>
   </tr>
 </table>
-<br/>
 
 <table>
   <tr>
