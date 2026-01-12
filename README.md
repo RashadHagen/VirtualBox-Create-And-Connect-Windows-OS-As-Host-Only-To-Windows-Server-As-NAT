@@ -2110,3 +2110,183 @@ This project addresses the need to create a fully functional environment that ac
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – INSTALL A DHCP SERVER ON A DOMAIN CONTROLLER WITH RAS AND NAT CONFIGURED VIA SERVER MANAGER</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: This will allow Windows clients to get an IP Address that will let them browse the Internet on our Private Internal Network</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Windows Server 2025.  Open: Server Manager.  Click: Add Roles and Features (middle-top, under: Configure this local server).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/868PiCS.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/0dcqBCi.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/IhfUxem.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In: Installation Type tab, make sure this is Selected: Role based or feature based installation, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/E6t80gV.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/y2tZGqW.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In: Server Selection tab, make sure this is Selected: Select a server from the server pool AND Select: Your Windows Server, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/KlJWChB.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WERtj5w.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In Server Roles tab, Click and Check: DHCP Server.  A box will pop-up called: Add Roles and Features Wizard, Click: Add Features.  You will be taken back to the: Add Roles and Features Wizard box, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/TKXhn3m.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/2InGRFF.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/7XuIroU.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/n9Pd0l1.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/gepStQ8.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/2UVJijO.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Features tab, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/SSybMiB.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/4pdq6NT.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the DHCP Server tab, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/UgqXYh1.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/o59YloC.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Confirmation tab, Click: Install.  When done, Click: Close (bottom-right) AND/OR you will see: an exclamation inside a yellow triangle by a flag in the top-right corner of Server Manager (next to: Manage).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/EtJKVWw.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src=https://imgur.com/Uzs9Hbo.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/BSJqAkb.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UFk03wT.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/evR8K8s.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/G0RqJ0o.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
