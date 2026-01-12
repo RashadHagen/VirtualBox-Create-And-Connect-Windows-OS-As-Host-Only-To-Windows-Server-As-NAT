@@ -2290,3 +2290,41 @@ This project addresses the need to create a fully functional environment that ac
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – CONFIGURE A DHCP SERVER ON A DOMAIN CONTROLLER WITH RAS AND NAT</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In Server Manager, Click: The flag with the yellow triangle that has an exclamation inside it (very top, next to: Manage).  Click: Complete DHCP configuration (blue link) OR The method I will use, Click: Tools (very top, between: Manage and View).  Click: DHCP .</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/bgVDR0n.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/OHy1hx6.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>OR</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/MWeZ2jE.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/UFzbro1.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/h0vaFqq.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
