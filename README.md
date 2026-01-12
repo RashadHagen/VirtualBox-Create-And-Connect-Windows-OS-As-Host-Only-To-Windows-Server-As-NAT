@@ -2294,7 +2294,7 @@ This project addresses the need to create a fully functional environment that ac
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – CONFIGURE A DHCP SERVER ON A DOMAIN CONTROLLER WITH RAS AND NAT</b></span>  
-<br/><br/>
+<br/><br/><br/>
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In Server Manager, Click: The flag with the yellow triangle that has an exclamation inside it (very top, next to: Manage).  Click: Complete DHCP configuration (blue link) OR The method I will use, Click: Tools (very top, between: Manage and View).  Click: DHCP .</b></span>  
