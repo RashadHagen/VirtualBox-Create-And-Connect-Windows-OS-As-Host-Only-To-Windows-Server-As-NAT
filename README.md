@@ -2329,6 +2329,34 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will pop-up called: DHCP.  Double-Click: The (windows server name).(domain name).com.  Then, Click: IPv4.  Right-Click: IPv4.  Click:  New Scope.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Azkb0Ou.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/6q6DcsY.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/IzyZqHk.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/aTZkm1R.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+
+</div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will pop-up called: New Scope Wizard.  Click: Next.</b></span>  
 <br/><br/>
 
