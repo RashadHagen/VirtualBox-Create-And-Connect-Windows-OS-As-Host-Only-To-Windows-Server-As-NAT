@@ -2711,3 +2711,33 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/VTnUAjI.png" height="100%" width="100%" /></td>
   </tr>
 </table>
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new window will pop-up called: Server Options.  Click the box to the left of: 003 Router.  Type: The Domain Controller’s IP Address (ex: 10.0.0.4) so client computers connected to the domain controller can get Internet.  Click: Add.  Click: Apply.  Click: OK.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Ya4FWUR.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/5diVDZk.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/4KvDXof.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/5XKw6Tw.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/gxSGmXk.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
