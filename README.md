@@ -2640,3 +2640,45 @@ This project addresses the need to create a fully functional environment that ac
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – INSTALL A ROUTER ON THE DHCP SERVER</b></span>  
+<br/><br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: DHCP Configure Options = we tell the clients which server to use for DNS and which server to use for the Default Gateway (Default Gateway = Router)</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	Use the Domain Controller’s IP Address from the NAT configuration</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NAT = Network Address Translation = allows internal clients to connect to the Internet using one public IP address</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Server Manager, Click: Tools.  Click: DHCP.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/5Vn9mRj.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NWk0BRO.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/S1ceQqv.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br />
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>OR</b></span>  
+<br/><br/>
+
+</div>
