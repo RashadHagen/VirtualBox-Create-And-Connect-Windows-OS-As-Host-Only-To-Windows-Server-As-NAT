@@ -2664,21 +2664,45 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/5Vn9mRj.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/kBvGmgW.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/9LDoJgC.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/NWk0BRO.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/S1ceQqv.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Ksc9T0E.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
-<br />
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>OR</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new window will pop-up called: DHCP.  Double-Click: The (windows server name).(domain name).com.  Double-Click: IPv4 (under the computer.domain name).  Double-Click: Server Options.  Then, Click: Action (very top, between: File and View).  Click: Configure Options.</b></span>  
 <br/><br/>
 
-</div>
+<table>
+  <tr>
+    <td><img src="https://imgur.com/lOO1Hz7.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/33kMgEV.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Kl1mgYp.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/4cJeM5B.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/pHEWEXG.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CPg1bHa.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/VTnUAjI.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
