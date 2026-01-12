@@ -2329,3 +2329,95 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will pop-up called: New Scope Wizard.  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/HR9SVmy.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/tRtFM5e.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Scope Name window, Type: The name for the scope (the IP Address range: EX: 172.16.0.100-200).  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ubLRSzL.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/RjNFnAX.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the IP Address Range window, Type: Start & End IP address.  Type: Length: 24 (makes the Subnet Mask: 255.255.255.0).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/gtfqMPu.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/jHoObG5.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Add Exclusions and Delay window, Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/wAdvqMy.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/aKGuqD9.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Lease Duration window, in the Days box, Type: 365 (so that our lap IP Addresses will not expire for one year).  Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/J82Vz5J.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/hNrj8OH.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
