@@ -1916,7 +1916,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In: Installation tab Type tab, make sure this is Selected: Role based or feature based installation, Click: Next.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In: Installation Type tab, make sure this is Selected: Role based or feature based installation, Click: Next.</b></span>  
 <br/><br/>
 
 <table>
