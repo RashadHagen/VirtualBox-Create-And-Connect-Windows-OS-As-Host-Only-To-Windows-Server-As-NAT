@@ -2736,3 +2736,20 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/gxSGmXk.png" height="100%" width="100%" /></td>
   </tr>
 </table>
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the window called: DHCP.  Under: IPv4, Double-Click: Server Options.  You will now have a 003 Router (it has the IP Address that all client computers use to connect to the Internet).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/bAtKXZJ.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+<br/><br/>
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: After all this is setup, to get internet to work on your Windows 11 virtual machine, you will have to have your Windows Server 2025 virtual machine open, too.  Since, the internet to Windows 11 is coming from Windows Server 2025.</b></span>  
+<br/>
