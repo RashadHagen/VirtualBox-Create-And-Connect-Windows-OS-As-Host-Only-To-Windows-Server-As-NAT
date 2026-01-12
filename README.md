@@ -2073,7 +2073,8 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/MyECORa.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/MyECORa.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/NNQujjK.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -2085,7 +2086,7 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/NNQujjK.png" height="75%" width="75%" /></td>
+    
   </tr>
 </table>
 
