@@ -590,6 +590,163 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Advanced network settings.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/m113VMF.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/dazVT4Y.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: External (NAT).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/lTuVnGo.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/RsDmkYy.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the row called: More adapter options, Click: Edit (far-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/cziWDeQ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/jZYeU11.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/r6nd1kn.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: External (NAT) Properties. Click: Internet Protocol Version 4 (TCP/IPv4). Click: Properties (next to: Uninstall).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/lVDlKD3.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/b12Y6dM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken to a pop-up box called: Internet Protocol Version 4 (TCP/IPv4) Properties. Click: Advaned (bottom-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/6lMI6SF.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/3EJmk8j.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken to a pop-up box called: Advanced TCP/IP Settings, IP Settings tab. Click: DNS tab (top, between: IP Settings and WINS).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ztiPIz7.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/GguGbBN.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>On the DNS tab, Click / Uncheck: Register this connection’s addresses in DNS (bottom-left, under section: DNS suffix for this connection). Click: OK.</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: This prevents the internet-facing NIC from advertising itself as an Active Directory address. Only the internal/domain NIC should publish domain controller DNS records.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/9w6p656.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/jqZ0S6F.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/n5sb9N8.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to a pop-up box called: Internet Protocol Version 4 (TCP/IPv4) Properties. Click: OK</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/v5WlTJC.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/39UEvTA.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to a pop-up box called: Internet Protocol Version 4 (TCP/IPv4) Properties. Click: Close.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NhhOW8E.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/NkV2vj1.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS 11 – NETWORK SETUP VIA WINDOWS 11 VIRTUAL MACHINE</b></span>  
 <br/><br/>
 
