@@ -1124,7 +1124,6 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/L7NXjqu.png" height="75%" width="75%" /></td>
-    <td><img src="https://imgur.com/1VDdSRD.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -1201,12 +1200,7 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/NbZxeyZ.png" height="100%" width="100%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/qY15tqk.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/qY15tqk.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -1315,11 +1309,6 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/fHFZOlM.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/Pa1aWQv.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -1340,6 +1329,33 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/NPiRbiB.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Review Options tab, look over all your selections. You can export your settings to a Windows PowerShell script by Clicking: View script. Click: Next.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/uDlbQDv.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oHWvI18.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/mdR1mRd.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CJkb6in.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/7TDywRK.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -1535,6 +1551,7 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/xiyCTvl.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/S2Cf1yO.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
@@ -1655,7 +1672,7 @@ This project addresses the need to create a fully functional environment that ac
 <br/><br/><br/>
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In Server Manager, Click: The flag with the yellow triangle that has an exclamation inside it (very top, next to: Manage).  Click: Open the Getting Started Wizard (blue link) OR The method I will use, Click: Tools (very top, between: Manage and View).  Click: Routing and Remote Access.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In Server Manager, Click: The flag with the yellow triangle that has an exclamation inside it (very top, next to: Manage). Click: Open the Getting Started Wizard (blue link) OR The method I will use, Click: Tools (very top, between: Manage and View). Click: Routing and Remote Access.</b></span>  
 <br/><br/>
 
 <table>
@@ -1680,11 +1697,6 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/XYqUUZj.png" height="50%" width="50%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/YCucPSX.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -1693,7 +1705,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Routing and Remote Access.  Right-Click: The server you want to configure (ex: WIN-K2BF9E7VTHV).  Click: Configure and Enable Routing and Remote Access (very top of list).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Routing and Remote Access. Right-Click: The server you want to configure (ex: WIN-K2BF9E7VTHV). Click: Configure and Enable Routing and Remote Access (very top of list).</b></span>  
 <br/><br/>
 
 <table>
@@ -1706,12 +1718,7 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/rCll4aZ.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/0tLzN1u.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/0tLzN1u.png" height="100%" width="75%" /></td>
   </tr>
 </table>
 
@@ -1738,7 +1745,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Configuration window, Select:</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Configuration window, Select: Network address translation (NAT). Click: Next.</b></span>  
 <br/><br/>
 
 <table>
@@ -2536,7 +2543,7 @@ This project addresses the need to create a fully functional environment that ac
 <br/><br/><br/>
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In Server Manager, Click: The flag with the yellow triangle that has an exclamation inside it (very top, next to: Manage).  Click: Complete DHCP configuration (blue link) OR The method I will use, Click: Tools (very top, between: Manage and View).  Click: DHCP .</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In Server Manager, Click: The flag with the yellow triangle that has an exclamation inside it (very top, next to: Manage). Click: Complete DHCP configuration (blue link) OR The method I will use, Click: Tools (very top, between: Manage and View). Click: DHCP.</b></span>  
 <br/><br/>
 
 <table>
@@ -2547,8 +2554,8 @@ This project addresses the need to create a fully functional environment that ac
 </table>
 <br/>
 
-<table>
-  <tr>OR</b></span>  
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>OR</b></span>  
 <br/><br/>
 
 <table>
@@ -2568,7 +2575,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will pop-up called: DHCP.  Double-Click: The (windows server name).(domain name).com.  Then, Click: IPv4.  Right-Click: IPv4.  Click:  New Scope.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new box will pop-up called: DHCP. Double-Click: The (windows server name).(domain name).com. Then, Click: IPv4. Right-Click: IPv4. Click: New Scope.</b></span>  
 <br/><br/>
 
 <table>
@@ -2586,11 +2593,6 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/IzyZqHk.png" height="50%" width="50%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/aTZkm1R.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -2863,11 +2865,6 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/9iZZqYp.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/rG2XPXu.png" height="100%" width="100%" /></td>
   </tr>
 </table>
