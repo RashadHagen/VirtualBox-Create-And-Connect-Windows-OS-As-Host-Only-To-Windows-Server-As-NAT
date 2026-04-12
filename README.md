@@ -998,18 +998,19 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the box: The name of your network adapter Properties (ex: ex: Internet (Host-Only) Properties).  Click: Close (very bottom-right).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the box: The name of your network adapter Properties (ex: ex: Internet (Host-Only) Properties). Uncheck / Disable: Internet Protocol Version 6 (TCP/IPv6). Click: OK.</b></span>  
 <br/><br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/pz1dIJI.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/7CwwACs.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/Vpk4o4O.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/p811qks.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/dXMlRbu.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -1669,26 +1670,21 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/undefined.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/YCMHhzU.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/oEIhLKs.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/oEIhLKs.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/1CZSimF.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/1CZSimF.png" height="75%" width="75%" /></td>
     <td><img src="https://imgur.com/e3kwgMR.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/LQmphXl.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/LQmphXl.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -2251,18 +2247,145 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You can now click: Tools (top-right corner) on Server Manager and will see: DNS.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You can now click: Tools (top-right corner) on Server Manager and will see: DNS. Click: DNS.</b></span>  
 <br/><br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/LMBaq2F.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/sIRPbK6.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/eq6yysj.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The server (ex: RIT-DC1.corp.rashaditlabs.com). Click: Properties.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/qryFrOO.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/ILj3Xhz.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/dfNn7hJ.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/Bej4MaZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Forwarders tab (top section).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/PAUg1zD.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/OdCVNDr.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/r5QvYgK.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Edit.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Tr7FFvp.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/xFcrRqM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the box with the blue background and “Click here to add an IP Address or DNS Name”, Type: 8.8.8.8  then press the Enter key on your keyboard. After that, Type: 1.1.1.1  then press the Enter key on your keyboard. Click: OK (bottom-right).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/s962qtr.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/USwZkVM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ZlugKou.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/gWCwGeb.png" height="75%" width="75%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/aFGfpbZ.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/Qr74ND3.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the server’s Properties box. Click: Apply (bottom-right). Then, Click: OK.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/UymsocQ.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ErjWBmg.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/qEsltiE.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Refresh the client computer (Windows 11) DNS. Open: Command Prompt.</b></span>  
+<br/><br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type command: ipconfig /flushdns</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/zPj1pTI.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type command ipconfig /registerdns</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/hnhOmCL.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
