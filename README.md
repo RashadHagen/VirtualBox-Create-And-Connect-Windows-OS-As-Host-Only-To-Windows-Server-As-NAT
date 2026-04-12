@@ -2911,9 +2911,11 @@ This project addresses the need to create a fully functional environment that ac
   </tr>
 </table>
 
+<br/><br/>
+
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new window will pop-up called: DHCP.  Double-Click: The (windows server name).(domain name).com.  Double-Click: IPv4 (under the computer.domain name).  Double-Click: Server Options.  Then, Click: Action (very top, between: File and View).  Click: Configure Options.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A new window will pop-up called: DHCP. Double-Click: The (windows server name).(domain name).com. Double-Click: IPv4 (under the computer.domain name). Double-Click: Server Options. Then, Click: Action (very top, between: File and View). Click: Configure Options.</b></span>  
 <br/><br/>
 
 <table>
@@ -2925,12 +2927,14 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/33kMgEV.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/q5mBnUJ.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td><img src="https://imgur.com/Kl1mgYp.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/TLKEtbe.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -2947,6 +2951,8 @@ This project addresses the need to create a fully functional environment that ac
     <td><img src="https://imgur.com/VTnUAjI.png" height="100%" width="100%" /></td>
   </tr>
 </table>
+
+<br/><br/>
 
 
 </div>
@@ -2973,6 +2979,8 @@ This project addresses the need to create a fully functional environment that ac
   </tr>
 </table>
 
+<br/><br/>
+
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the window called: DHCP.  Under: IPv4, Double-Click: Server Options.  You will now have a 003 Router (it has the IP Address that all client computers use to connect to the Internet).</b></span>  
@@ -2987,5 +2995,5 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: AFTER ALL THIS IS SETUP: TO GET INTERNET TO WORK ON YOUR WINDOWS 11 VIRTUAL MACHINE, YOU WILL HAVE TO HAVE YOUR WINDOWS SERVER 2025 VIRTUAL MACHINE OPEN, TOO.  SINCE, THE INTERNET TO WINDOWS 11 IS COMING FROM YOUR WINDOWS SERVER 2025.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: AFTER ALL THIS IS SETUP, TO GET INTERNET TO WORK ON YOUR WINDOWS 11 VIRTUAL MACHINE: YOU WILL NEED WINDOWS SERVER 2025 VIRTUAL MACHINE TO BE OPEN ALSO, BECAUSE THE INTERNET TO THE WINDOWS 11 VIRTUAL MACHINE IS COMING FROM YOUR WINDOWS SERVER 2025 VIRTUAL MACHINE.</b></span>  
 <br/><br/><br/>
