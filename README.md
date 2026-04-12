@@ -59,24 +59,20 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: File (top-left).  Hover your mouse over: Tools (between: Export Applicance... and Check for Updates).  Click: Expansion Pack Manager.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: File (top-left). Hover your mouse over: Tools (between: Export Applicance... and Check for Updates). Click: Expansion Pack Manager.</b></span>  
 <br/><br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/2kr2zrm.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/2kr2zrm.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/RM2d29t.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/RM2d29t.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/zI1JtVq.png" height="100%" width="100%" /></td>
-  </tr>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/jf2c4hf.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/zI1JtVq.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/jf2c4hf.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
@@ -84,7 +80,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Oracle VM VirtualBox Extension Pack.  Click: Install.  It will open the File Explorer box for your computer, Select: The VirtualBox Extension Pack file.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Oracle VM VirtualBox Extension Pack. Click: Install.  It will open the File Explorer box for your computer, Select: The VirtualBox Extension Pack file.</b></span>  
 <br/><br/>
 
 <table>
@@ -97,12 +93,7 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/eCT1HGi.png" height="50%" width="50%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/g5Vpgnq.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/g5Vpgnq.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -394,12 +385,7 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/x4idycX.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
+    <td><img src="https://imgur.com/x4idycX.png" height="100%" width="100%" /></td>
     <td><img src="https://imgur.com/NL6OEIV.png" height="75%" width="75%" /></td>
   </tr>
 </table>
@@ -420,11 +406,6 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/bPjVv6x.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/k31NJx0.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -438,7 +419,7 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/7el86oB.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/7el86oB.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -519,17 +500,12 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: (your network adapter name, ie: Internal Host-Only) Properties.  Click: Internet Protocol Version 4 (TCP/IPv4).  Click: Properties (middle-right).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: (your network adapter name, ie: Internal Host-Only) Properties. Click: Internet Protocol Version 4 (TCP/IPv4). Click: Properties (middle-right).</b></span>  
 <br/><br/>
 
 <table>
   <tr>
     <td><img src="https://imgur.com/BtyaXyF.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/OtO52es.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -558,17 +534,12 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the: (your network adapter name, ie: Internal Host-Only) Properties box.  Click: Close (bottom-right).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the: (your network adapter name, ie: Internal Host-Only) Properties box. Click: Close (bottom-right).</b></span>  
 <br/><br/>
 
 <table>
   <tr>
     <td><img src="https://imgur.com/aIgP5Qw.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/fBLMfYu.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -924,13 +895,13 @@ This project addresses the need to create a fully functional environment that ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/47IZkkQ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/47IZkkQ.png" height="75%" width="75%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/MS3BGO7.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/MS3BGO7.png" height="50%" width="50%" /></td>
     <td><img src="https://imgur.com/StHcn6U.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -996,6 +967,8 @@ This project addresses the need to create a fully functional environment that ac
   </tr>
 </table>
 
+<br /><br />
+
 
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the box: The name of your network adapter Properties (ex: ex: Internet (Host-Only) Properties). Uncheck / Disable: Internet Protocol Version 6 (TCP/IPv6). Click: OK.</b></span>  
@@ -1052,7 +1025,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will popup called: Add Roles and Features Wizard.  In the Installation Type tab, make sure this is Selected: Role-based on feature-based installation.  Click: Next.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will popup called: Add Roles and Features Wizard.  In the Installation Type tab, make sure this is Selected: Role-based on feature-based installation. Click: Next.</b></span>  
 <br/><br/>
 
 <table>
@@ -1064,11 +1037,6 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/sv2SAuj.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/VZAiRXx.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -1077,7 +1045,7 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Server Selection tab, make sure this is Selected: Select a server from the server pool & The Windows Server you want to use.  Click: Next.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Server Selection tab, make sure this is Selected: Select a server from the server pool & The Windows Server you want to use. Click: Next.</b></span>  
 <br/><br/>
 
 <table>
@@ -1089,11 +1057,6 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/M3g41hW.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/1vLYgvV.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -1121,17 +1084,12 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Add Roles and Features Wizard.  Click: Add Features.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will pop-up called: Add Roles and Features Wizard. Click: Add Features.</b></span>  
 <br/><br/>
 
 <table>
   <tr>
     <td><img src="https://imgur.com/8FkXNpb.png" height="75%" width="75%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://imgur.com/POWcVJU.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -1166,6 +1124,7 @@ This project addresses the need to create a fully functional environment that ac
 <table>
   <tr>
     <td><img src="https://imgur.com/L7NXjqu.png" height="75%" width="75%" /></td>
+    <td><img src="https://imgur.com/1VDdSRD.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
