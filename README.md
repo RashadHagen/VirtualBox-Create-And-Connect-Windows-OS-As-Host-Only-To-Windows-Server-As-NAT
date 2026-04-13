@@ -971,26 +971,6 @@ This project addresses the need to create a fully functional environment that ac
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will be taken back to the box: The name of your network adapter Properties (ex: ex: Internet (Host-Only) Properties). Uncheck / Disable: Internet Protocol Version 6 (TCP/IPv6). Click: OK.</b></span>  
-<br/><br/>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/7CwwACs.png" height="75%" width="75%" /></td>
-    <td><img src="https://imgur.com/Vpk4o4O.png" height="100%" width="100%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/dXMlRbu.png" height="100%" width="100%" /></td>
-  </tr>
-</table>
-
-<br /><br />
-
-
-</div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WINDOWS SERVER 2025 – INSTALLING ACTIVE DIRECTORY DOMAIN SERVICES (AD DS)</b></span>  
 <br/><br/>
 
