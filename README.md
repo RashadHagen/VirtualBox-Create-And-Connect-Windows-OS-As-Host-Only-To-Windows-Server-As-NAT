@@ -34,7 +34,7 @@ This project addresses the need to create a fully functional environment that ac
  <br/>
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: Install Windows Pro edition!  If you install Home, it cannot connect to Windows Server..</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: Install Windows Pro edition!  If you install Home, it cannot connect to Windows Server.</b></span>  
 <br/><br/>
 
 </div>
